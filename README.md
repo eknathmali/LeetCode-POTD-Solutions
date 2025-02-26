@@ -1,74 +1,51 @@
-<!--
-  ╔═════════════════════════════════════════════════════════════════════╗
-  ║                                                                     ║
-  ║   ██████╗ ██╗      █████╗ ███████╗████████╗██╗   ██╗███████╗██████╗   ║
-  ║  ██╔════╝ ██║     ██╔══██╗██╔════╝╚══██╔══╝██║   ██║██╔════╝██╔══██╗  ║
-  ║  ██║  ███╗██║     ███████║███████╗   ██║   ██║   ██║█████╗  ██████╔╝  ║
-  ║  ██║   ██║██║     ██╔══██║╚════██║   ██║   ██║   ██║██╔══╝  ██╔══██╗  ║
-  ║  ╚██████╔╝███████╗██║  ██║███████║   ██║   ╚██████╔╝███████╗██║  ██║  ║
-  ║   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝  ║
-  ║                                                                     ║
-  ╚═════════════════════════════════════════════════════════════════════╝
--->
-
-# 🚀 LeetCode Problem of the Day 🌟
-
-Welcome, Code Warriors!  
-Every sunrise brings a new algorithmic adventure in this repository. Whether you're here to conquer challenges, refine your skills, or simply marvel at the beauty of code, you’re in the right place.
-
----
-
-## ✨ What Makes This Repository Legendary?
-
-- **Daily Challenges:** A fresh LeetCode problem is added every day—your daily dose of brain teasers and coding puzzles.
-- **Varied Difficulties:** From warm-up easy problems to brain-bending hard ones, there’s something for every coder.
-- **Community-Driven:** Collaborate, share solutions, and learn from a global network of passionate developers.
-- **Learning Beyond Solutions:** Gain insights into efficient problem-solving techniques and creative coding strategies.
-
----
-
-## 📆 Daily Ritual: How to Engage
-
-1. **Discover:** Visit the [Problems Directory](./problems) to see the latest challenge.
-2. **Solve:** Flex your coding muscles and tackle the problem in your favorite language.
-3. **Share:** Contribute your solution via pull request—your code might just inspire someone else.
-4. **Discuss:** Dive into the conversation on our Issues page to exchange tips and tricks.
-
----
-
-## 🔧 How to Contribute
-
-We thrive on collaboration! Here’s how you can make an impact:
-
-- **Add a New Problem:** Found a LeetCode challenge that’s not yet featured? Fork the repo, add it, and submit a pull request.
-- **Enhance Existing Solutions:** Have a more optimized or elegant solution? Share your expertise with the community.
-- **Engage in Discussions:** Open issues, provide feedback, and help refine our coding journeys.
-
-For detailed guidelines, please see our [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## 🌐 Connect and Share
-
-- **Discord:** Join our coding guild for real-time discussions and collaborative problem-solving.
-- **Twitter:** Follow [@CodeDailyChallenges](https://twitter.com) for updates and coding inspiration.
-- **Star the Repo:** If you enjoy the challenges, don’t forget to ⭐ star the repository and share it with your fellow coders.
-
----
-
-## 📜 License
-
-This project is distributed under the [MIT License](LICENSE). Enjoy, learn, and share the code freely with proper attribution.
-
----
-
-## 💡 Parting Wisdom
-
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — Harold Abelson
-
-May your code always compile on the first run, and your challenges turn into stepping stones towards mastery. Embrace the journey, one problem at a time!
-
-<div align="center">
-  <sub>Crafted with passion and endless cups of coffee by a community of code enthusiasts 💻❤️</sub>
-</div>
+⚡ LeetCode Daily Challenge – Hacker's Solutions
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Initializing+Hacker+Mode...;Solving+Daily+Challenges;Tracking+100%2B+solutions;Happy+Coding!" alt="Typing SVG"> </p>
+swift
+Copy
+Edit
+    Fight Bugs                      |     |
+                                    \_V_//
+                                    \/=|=\/
+                                     [=v=]
+                                   __\___/_____
+                                  /..[  _____  ]
+                                 /_  [ [  M /] ]
+                                /../.[ [ M /@] ]
+                               <-->[_[ [M /@/] ]
+                              /../ [.[ [ /@/ ] ]
+          _________________]\ /__/  [_[ [/@/ C] ]
+         <_________________>>0---]  [=\ \@/ C / /
+            ___      ___   ]/000o   /__\ \ C / /
+               \    /              /....\ \_/ /
+            ....\||/....           [___/=\___/
+           .    .  .    .          [...] [...]
+          .      ..      .         [___/ \___]
+          .    0 .. 0    .         <---> <--->
+       /\/\.    .  .    ./\/\      [..]   [..]
+      / / / .../|  |\... \ \ \    _[__]   [__]_
+     / / /       \/       \ \ \  [____>   <____]
+ASCII art by Joan G. Stark
+Hack the Algorithm: Welcome to the lair of daily problem solving. This repository contains LeetCode Problem-of-the-Day solutions, presented with a classic hacker vibe. Expect a green-on-black terminal theme, glitchy animations, and a coding journey that feels straight out of the Matrix.
+Features 🚀
+Daily Challenge Solutions: Up-to-date code for each LeetCode "Problem of the Day", crafted in multiple languages (Python, C++, etc.) with clean, well-documented solutions.
+Hacker-Style Interface: A terminal-like README layout (monospace font, green text on black background) for that retro hacking aesthetic.
+ASCII Art & Animations: Algorithm-themed ASCII art and SVG animations are embedded throughout, bringing this README to life (check out the matrix-like typing effect above 👆).
+LeetCode Progress Tracking: Live progress indicators, including a solved-problem count, difficulty breakdown, and an index of problems solved by date/category.
+Badges and Stats: Shields showing repo stats (commits, languages, etc.) and dynamic GitHub stats cards (contribution streak, most used languages) to showcase activity.
+Personal Branding: Crafted with ❤️ by Your Name – feel free to connect on LinkedIn! The README reflects my coding style and hacker personality.
+LeetCode Progress 💻
+Challenges Solved: 100+
+Difficulty Breakdown: 🟢 Easy: 50  |  🟡 Medium: 40  |  🔴 Hard: 10
+Current Streak: 30 days 🔥 (and counting!)<details> <summary>📜 <b>Full Index of Daily Problems</b> (click to expand)</summary>2025
+January:
+2025-01-01 – Two Sum – Easy
+2025-01-02 – Add Two Numbers – Medium
+<!-- ... other January problems ... -->
+February:
+2025-02-01 – Sample Problem – Medium
+<!-- ... other February problems ... -->
+...and so on for each day’s challenge throughout the year...</details>
+GitHub Activity 📊
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150"> </p> <p align="center"> <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"> </p>
+Connect with Me 🔗
+Find me on LinkedIn for professional updates, coding news, or just to say hello. Happy hacking!
